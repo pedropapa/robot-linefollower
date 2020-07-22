@@ -1,6 +1,8 @@
 ## Robô seguidor de linha
 
-Projeto construído durante o curso de robótica do CEPAG.
+Projeto construído durante o curso de robótica do CEPAG. A função do robô é andar em cima de uma linha preta, sempre que o sensor de reflexão IR detecta que há ausência de luz na superfície em que está passando, vai para a direção contrária a do movimento, até voltar a encontrar reflexão de luz, dessa forma o robô se mantém em cima da linha.
+
+Para percursos muito curtos (como o da gif), é recomendado utilizar a entrada VCC de 3V do Arduino, assim os motores terão menos força e podem fazer curvas mais suaves para se manter na linha, em testes com 5V o robô passa muito rápido nas curvas, saindo do percurso.
 
 - [CEPAG - Centro de Educação Profissional Articulado do Guará.](http://www.cepag.se.df.gov.br)
 

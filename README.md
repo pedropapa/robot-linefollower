@@ -4,14 +4,14 @@ Projeto construído durante o curso de robótica do CEPAG.
 
 - [CEPAG - Centro de Educação Profissional Articulado do Guará.](http://www.cepag.se.df.gov.br)
 
-<img src="https://github.com/pedropapa/robot-linefollower/assets/apresentacao.gif" width="400px"/>
+<img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/apresentacao.gif?raw=true" width="400px"/>
 
 <table>
-    <td><img src="https://github.com/pedropapa/robot-linefollower/assets/foto1.jpeg" width="300px"/></td>
-    <td><img src="https://github.com/pedropapa/robot-linefollower/assets/foto2.png" width="300px"/></td>
-    <td><img src="https://github.com/pedropapa/robot-linefollower/assets/foto3.png" width="300px"/></td>
-    <td><img src="https://github.com/pedropapa/robot-linefollower/assets/foto4.png" width="300px"/></td>
-    <td><img src="https://github.com/pedropapa/robot-linefollower/assets/foto5.png" width="300px"/></td>
+    <td><img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/foto1.jpg?raw=true" width="300px"/></td>
+    <td><img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/foto2.jpg?raw=true" width="300px"/></td>
+    <td><img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/foto3.jpg?raw=true" width="300px"/></td>
+    <td><img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/foto4.png?raw=true" width="300px"/></td>
+    <td><img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/foto5.png?raw=true" width="300px"/></td>
 </table>
 
 ### Componentes

@@ -6,7 +6,7 @@ Para percursos muito curtos (como o da gif), é recomendado utilizar a entrada V
 
 - [CEPAG - Centro de Educação Profissional Articulado do Guará.](http://www.cepag.se.df.gov.br)
 
-<img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/apresentacao.gif?raw=true" width="400px"/>
+<!-- <img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/apresentacao.gif?raw=true" width="400px"/> -->
 
 <table>
     <td><img src="https://github.com/pedropapa/robot-linefollower/blob/master/assets/foto1.jpg?raw=true" width="300px"/></td>
